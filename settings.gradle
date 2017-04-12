@@ -1,0 +1,3 @@
+rootProject.name = 'Flat_204_Service'
+include 'Flat_204_Artifact'
+
